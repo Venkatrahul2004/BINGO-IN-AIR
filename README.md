@@ -15,7 +15,6 @@
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -96,18 +95,6 @@ python se_final.py
 
 ---
 
-## 🛠️ Contributing
-
-Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -116,9 +103,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your_email@example.com
 
-Project Link: [https://github.com/your-username/Bingo-In-Air](https://github.com/your-username/Bingo-In-Air)
+
+Linkedin : [https://www.linkedin.com/in/venkata-rahul-batta-822722278/](link)
 
 ---
 
